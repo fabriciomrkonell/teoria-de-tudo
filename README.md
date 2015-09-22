@@ -4,7 +4,10 @@ Uma lei é aquilo que descreve uma afirmação analítica. A teoria é usada par
 
 Uma singularidade gravitacional é, aproximadamente, um ponto do espaço-tempo no qual a massa, associada com sua densidade, e a curvatura do espaço-tempo de um corpo são infinitas. 
 
+Mecânica quântica é o estudo de sistemas físicos cujas dimensões são próximas ou abaixo da escala atômica como, por exemplo, átomos, elétrons, prótons e outras partículas subatômicas.
+
 Referências:
 * http://libertesuamente13.blogspot.com.br/2014/10/entendendo-teoria-da-relatividade-geral.html
 * http://www.universoracionalista.org/gravidade-lei-ou-teoria/
 * https://pt.wikipedia.org/wiki/Singularidade_gravitacional
+* http://www.efeitojoule.com/2011/06/mecanica-quantica-fisica-quantica.html
