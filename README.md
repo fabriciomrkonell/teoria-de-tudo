@@ -8,8 +8,6 @@ Mecânica quântica é o estudo de sistemas físicos cujas dimensões são próx
 
 Nada consegue ultrapassar 1 079 252 849 de km/h, ou simplesmente, 300 milhões de metros por segundo. Esses números correspondem à velocidade da luz no vácuo, e quebrar essa barreira é fisicamente impossível. Tudo se deve a uma observação feita por Albert Einstein, em 1905: massa e energia estão intimamente ligadas (E = m . c²).
 
-Leia mais: http://www.ndig.com.br/item/2010/04/velocidade-da-luz-entenda-porque-nada-pode-ultrapass-la#ixzz3mwoQRLn2
-
 Referências:
 * http://libertesuamente13.blogspot.com.br/2014/10/entendendo-teoria-da-relatividade-geral.html
 * http://www.universoracionalista.org/gravidade-lei-ou-teoria/
