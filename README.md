@@ -12,6 +12,8 @@ Um buraco negro se forma quando um corpo celeste, cuja massa precisa ser algumas
 
 Nada consegue ultrapassar 1 079 252 849 de km/h, ou simplesmente, 300 milhões de metros por segundo. Esses números correspondem à velocidade da luz no vácuo, e quebrar essa barreira é fisicamente impossível. Tudo se deve a uma observação feita por Albert Einstein, em 1905: massa e energia estão intimamente ligadas (E = m . c²).
 
+Do mesmo jeito que você pode navegar por uma latitude sem mudar sua longitude, você pode se movimentar no tempo sem alterar sua posição no espaço.
+
 Referências:
 * http://libertesuamente13.blogspot.com.br/2014/10/entendendo-teoria-da-relatividade-geral.html
 * http://www.universoracionalista.org/gravidade-lei-ou-teoria/
@@ -19,3 +21,4 @@ Referências:
 * http://www.efeitojoule.com/2011/06/mecanica-quantica-fisica-quantica.html
 * http://www.ndig.com.br/item/2010/04/velocidade-da-luz-entenda-porque-nada-pode-ultrapass-la
 * http://zh.clicrbs.com.br/rs/noticias/proa/noticia/2015/01/stephen-hawking-e-as-controversias-para-desenvolver-a-teoria-de-tudo-4691280.html
+* http://negaointernauta.com/velocidade-da-luz/
