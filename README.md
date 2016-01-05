@@ -14,6 +14,8 @@ Nada consegue ultrapassar 1 079 252 849 de km/h, ou simplesmente, 300 milhões d
 
 Do mesmo jeito que você pode navegar por uma latitude sem mudar sua longitude, você pode se movimentar no tempo sem alterar sua posição no espaço.
 
+Os objetos tendem a se mover para onde o tempo passa mais devagar.
+
 Referências:
 * http://libertesuamente13.blogspot.com.br/2014/10/entendendo-teoria-da-relatividade-geral.html
 * http://www.universoracionalista.org/gravidade-lei-ou-teoria/
